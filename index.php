@@ -99,7 +99,7 @@ a {
       <div class="row">
         <div class="col-md">
           <button id="ubah">Ubah Tulisan</button>
-          <button id="copy">Copy Tulisan</button>
+          <!--<button id="copy">Copy Tulisan</button>-->
         </div>
       </div>
   </center>
